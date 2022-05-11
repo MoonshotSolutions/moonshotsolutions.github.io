@@ -1,7 +1,3 @@
-layout: page
-title: "Under construction..."
-permalink: /
-
 # Moonshot Solutions
 ### _"Elevating honest traders."_
 
