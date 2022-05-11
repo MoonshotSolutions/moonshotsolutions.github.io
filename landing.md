@@ -1,6 +1,6 @@
 layout: page
 title: "Under construction..."
-permalink: /landing/
+permalink: /
 
 # Moonshot Solutions
 ### _"Elevating honest traders."_
