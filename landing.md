@@ -9,7 +9,8 @@ You love _free_ and so do we.
 Bookmark [moonshot.codes](moonshot.codes) for open-source indicators and instructionals.
 
 ## Values
-### These are the principles that guide our organization. Our founders, families, friends, and clients embody the following.
+### Principles that guide our organization
+#### Our founders, families, friends, and clients embody the following.
 - Honesty
 - Courage
 - Curiosity
