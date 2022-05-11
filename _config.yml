@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Moonshot Solutions
 description: Profitable trading algos for day traders and institutions.
-logo: https://github.com/MoonshotSolutions/moonshotsolutions.github.io/blob/main/assets/Version_4_Inverted.png
-show-downloads: false
+logo: https://raw.githubusercontent.com/MoonshotSolutions/moonshotsolutions.github.io/main/assets/Version_4_Inverted.png
+show-downloads: true
