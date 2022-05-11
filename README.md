@@ -29,6 +29,6 @@ If you have a following on social media and no product to capitalize your audien
 Our priority is to instill our values in every person involved, create a proven trading tool, and make you and your clients profits.
 
 Unfortunately, there are many bad actors in the trading space.
-The reason that NFTs, pyramid schemes, and other financial scams exist is due to individuals that do not have values and _choose_ to exploit their own clients.
-Moonshot's founders seek to _elevate honest traders_ and help their you build a product that makes headlines for the _right_ reasons.
+The reason that NFTs, pyramid schemes, and other financial scams exist is due to individuals that _choose_ to exploit their own clients.
+Moonshot's founders seek to _elevate honest traders_ and help them build products that makes headlines for the _right_ reasons.
 
