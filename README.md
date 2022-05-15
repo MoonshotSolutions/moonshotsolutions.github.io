@@ -1,4 +1,3 @@
-<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="moonshot-test" ></script>
 # Moonshot Solutions
 ### _"Elevating honest traders."_
 
@@ -32,5 +31,3 @@ Our priority is to instill our values in every person involved, create a proven 
 Unfortunately, there are many bad actors in the trading space.
 The reason that NFTs, pyramid schemes, and other financial scams exist is due to individuals that _choose_ to exploit their own clients.
 Moonshot's founders seek to _elevate honest traders_ and help them build products that make headlines for the _right_ reasons.
-<a href="javascript:void(0)" data-cb-type="checkout" >subscribe</a>
-<a href="javascript:void(0)" data-cb-type="portal" >Manage account</a>
